@@ -1,1 +1,3 @@
-list1-6.o:
+CC = gcc
+
+list1-6:
